@@ -46,9 +46,11 @@ flutter run
 
 ## Screenshots
 
-![Screenshot 1](![Uploading instagram_clone.png…] "Instagram CLone")
 
-<!-- ![Screenshot 2](/screenshots/screenshot2.png "Optional Title") -->
+![instagram_clone](https://user-images.githubusercontent.com/78371075/222889984-c5c910fc-afa0-4ed4-b30b-05a076d1b6eb.png)
+
+
+
 
 ## Contributing
 
