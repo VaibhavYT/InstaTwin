@@ -1,6 +1,7 @@
 Instagram Clone App with Flutter
 This is a mobile app built with Flutter that replicates some of the core features of the popular social media platform Instagram. The app allows users to create an account, log in, view their feed, post photos and videos, like and comment on posts, and follow other users.
-<b>Tech Stack Used</b>
+<br>
+<h2><b>Tech Stack Used</b></h2>
 1.	Flutter - a UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 2.	Firebase - a cloud-based platform for mobile and web app development that provides services such as authentication, database storage, and real-time data synchronization.
 Features
