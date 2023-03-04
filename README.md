@@ -1,22 +1,55 @@
-Instagram Clone App with Flutter
-This is a mobile app built with Flutter that replicates some of the core features of the popular social media platform Instagram. The app allows users to create an account, log in, view their feed, post photos and videos, like and comment on posts, and follow other users.
-<br>
-<h2><b>Tech Stack Used</b></h2>
-1.	Flutter - a UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
-2.	Firebase - a cloud-based platform for mobile and web app development that provides services such as authentication, database storage, and real-time data synchronization.
-Features
-1.	User authentication: Users can create an account and log in using their email and password.
-2.	Feed view: Users can view a feed of posts from the users they follow, with infinite scrolling and pull-to-refresh functionality.
-3.	Post creation: Users can create new posts by selecting an image or video from their device's gallery, adding a caption, and uploading it to the Firebase storage.
-4.	Post interaction: Users can like and comment on posts, and see the likes and comments of other users.
-5.	User profile: Users can view their own profile, edit their profile picture and bio, and view their own posts and followers.
-6.	User search: Users can search for other users by their username and view their profiles.
-7.	Follow functionality: Users can follow and unfollow other users, and view the list of users they are following and their followers.
-Getting Started
-To run the app, you will need to have Flutter and Firebase installed on your machine. Once you have cloned the repository, run the following commands in the terminal:
-csharpCopy code
-flutter pub get flutter run 
-Make sure you have also set up a Firebase project and added the necessary configuration files to the project.
-Acknowledgments
-1.	This project was inspired by the Instagram app and the tutorials and resources provided by the Flutter and Firebase communities.
-2.	Thank you to my mentor and colleagues for their guidance and support throughout the development process.
+# Instagram Clone
+
+This is a Flutter project for building an Instagram clone, created by [Vaibhav Jain](https://github.com/VaibhavYT).
+
+## Overview
+
+The Instagram clone is a mobile application built using Flutter, which allows users to sign up, create posts, follow other users, and interact with their posts by liking and commenting on them. It utilizes Firebase Authentication, Cloud Firestore, and Cloud Storage for Firebase for backend functionality.
+
+## Features
+
+- User authentication (sign up, sign in, sign out)
+- Create, edit, and delete posts
+- Like and comment on posts
+- Follow and unfollow other users
+- View posts from followed users on the home page
+- Search for users by username
+- View user profiles, including their posts and followers
+
+## Getting Started
+
+To run this project on your local machine, follow these steps:
+
+1. Clone this repository:
+
+git clone https://github.com/VaibhavYT/instagram_clone.git
+
+
+
+2. Navigate to the project directory:
+
+cd instagram_clone
+
+
+3. Install the dependencies:
+
+flutter pub get
+
+
+
+4. Create a new Firebase project and configure it for Android and iOS platforms.
+5. Download the `google-services.json` file for Android and the `GoogleService-Info.plist` file for iOS, and place them in the `android/app` and `ios/Runner` directories, respectively.
+6. Enable authentication, Cloud Firestore, and Cloud Storage for Firebase in your Firebase project.
+7. Run the app:
+
+flutter run
+
+
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a pull request or open an issue if you find a bug or have a suggestion.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
