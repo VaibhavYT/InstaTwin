@@ -1,6 +1,6 @@
 # Instagram Clone
 
-This is a Flutter project for building an Instagram clone, created by [Vaibhav Jain](https://github.com/VaibhavYT).
+This is a Flutter project for building an Instagram clone, created by [Vaibhav Jaiswal](https://github.com/VaibhavYT).
 
 ## Overview
 
