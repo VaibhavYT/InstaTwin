@@ -44,7 +44,11 @@ flutter pub get
 
 flutter run
 
+## Screenshots
 
+![Screenshot 1](![Uploading instagram_clone.png…] "Instagram CLone")
+
+<!-- ![Screenshot 2](/screenshots/screenshot2.png "Optional Title") -->
 
 ## Contributing
 
